@@ -1,5 +1,9 @@
 # vue-next-app
 
+## Node Project
+```
+node index.js
+```
 ## Project setup
 ```
 npm install
